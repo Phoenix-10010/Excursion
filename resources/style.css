@@ -1,0 +1,29 @@
+html {
+    font-family: Verdana, sans-serif;
+    background-color: black;
+    margin: auto;
+    padding: 5px;
+}
+
+h1 {
+    color: white;
+    font-weight: normal;
+    text-align: center;
+    font-size: 50px;
+    /* white-space: nowrap; */ 
+}
+
+p {
+    text-align: center;
+}
+
+.link {
+    color: aquamarine;
+    font-size: 16px;
+    text-decoration: underline;
+    text-decoration-color: aquamarine;
+}
+
+a {
+    color: inherit;
+}
